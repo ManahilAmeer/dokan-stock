@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "404343667183",
-    "project_id": "dokan-stock",
-    "storage_bucket": "dokan-stock.appspot.com"
+    "project_number": "440030831367",
+    "project_id": "dokan-stock-ca76e",
+    "storage_bucket": "dokan-stock-ca76e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:404343667183:android:30df4d43ecb5bd5cdbde1a",
+        "mobilesdk_app_id": "1:440030831367:android:d822ad70a1dd1a12cd1ba2",
         "android_client_info": {
           "package_name": "com.example.dokan_stock"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCha8Suy1pqdr8-MBenNrUDc00u08mQBn0"
+          "current_key": "AIzaSyAwMiKe4nLZir2f1fGNhJhQ8EnkLWCPViQ"
         }
       ],
       "services": {

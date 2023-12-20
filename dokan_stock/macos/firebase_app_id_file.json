@@ -1,7 +1,7 @@
 {
   "file_generated_by": "FlutterFire CLI",
   "purpose": "FirebaseAppID & ProjectID for this Firebase app in this directory",
-  "GOOGLE_APP_ID": "1:404343667183:ios:e11436be53438d05dbde1a",
-  "FIREBASE_PROJECT_ID": "dokan-stock",
-  "GCM_SENDER_ID": "404343667183"
+  "GOOGLE_APP_ID": "1:440030831367:ios:6d5716d6d75df99acd1ba2",
+  "FIREBASE_PROJECT_ID": "dokan-stock-ca76e",
+  "GCM_SENDER_ID": "440030831367"
 }

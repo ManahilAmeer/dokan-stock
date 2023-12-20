@@ -44,38 +44,38 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyAbxePJrpQe6_QHylZ75cy4fv429yc8VjE',
-    appId: '1:404343667183:web:716197fd2a4c155ddbde1a',
-    messagingSenderId: '404343667183',
-    projectId: 'dokan-stock',
-    authDomain: 'dokan-stock.firebaseapp.com',
-    storageBucket: 'dokan-stock.appspot.com',
-    measurementId: 'G-Z4MDBKEK0M',
+    apiKey: 'AIzaSyAMGzrRSWmp5keQFNdYbPuxzWmkaTlO6jE',
+    appId: '1:440030831367:web:587a4374327fcdeecd1ba2',
+    messagingSenderId: '440030831367',
+    projectId: 'dokan-stock-ca76e',
+    authDomain: 'dokan-stock-ca76e.firebaseapp.com',
+    storageBucket: 'dokan-stock-ca76e.appspot.com',
+    measurementId: 'G-L7N51FZ3SZ',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCha8Suy1pqdr8-MBenNrUDc00u08mQBn0',
-    appId: '1:404343667183:android:30df4d43ecb5bd5cdbde1a',
-    messagingSenderId: '404343667183',
-    projectId: 'dokan-stock',
-    storageBucket: 'dokan-stock.appspot.com',
+    apiKey: 'AIzaSyAwMiKe4nLZir2f1fGNhJhQ8EnkLWCPViQ',
+    appId: '1:440030831367:android:d822ad70a1dd1a12cd1ba2',
+    messagingSenderId: '440030831367',
+    projectId: 'dokan-stock-ca76e',
+    storageBucket: 'dokan-stock-ca76e.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCvce7coxEqu7GKcnr69FRzrIlytCGiYCU',
-    appId: '1:404343667183:ios:45f9f796ba4b2342dbde1a',
-    messagingSenderId: '404343667183',
-    projectId: 'dokan-stock',
-    storageBucket: 'dokan-stock.appspot.com',
+    apiKey: 'AIzaSyBiZsbIqMC2UlHsEgu07P-RxQS6kt3I6C8',
+    appId: '1:440030831367:ios:7fe646d3461de756cd1ba2',
+    messagingSenderId: '440030831367',
+    projectId: 'dokan-stock-ca76e',
+    storageBucket: 'dokan-stock-ca76e.appspot.com',
     iosBundleId: 'com.example.dokanStock',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCvce7coxEqu7GKcnr69FRzrIlytCGiYCU',
-    appId: '1:404343667183:ios:e11436be53438d05dbde1a',
-    messagingSenderId: '404343667183',
-    projectId: 'dokan-stock',
-    storageBucket: 'dokan-stock.appspot.com',
+    apiKey: 'AIzaSyBiZsbIqMC2UlHsEgu07P-RxQS6kt3I6C8',
+    appId: '1:440030831367:ios:6d5716d6d75df99acd1ba2',
+    messagingSenderId: '440030831367',
+    projectId: 'dokan-stock-ca76e',
+    storageBucket: 'dokan-stock-ca76e.appspot.com',
     iosBundleId: 'com.example.dokanStock.RunnerTests',
   );
 }
